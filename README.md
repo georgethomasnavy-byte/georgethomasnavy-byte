@@ -1,17 +1,11 @@
 <h1 align="center">Hi, I'm George Thomas</h1>
-<h3 align="center">💻 3rd Year Computer Science Engineering Student</h3>
+<h3 align="center">3rd Year Computer Science Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Java+Developer;Python+Programmer;DSA+Enthusiast;Building+Cool+Projects;Always+Learning+" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/georgethomasnavy-byte">
-    <img src="https://komarev.com/ghpvc/?username=georgethomasnavy-byte&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-</p>
 
----
 
 ## 👨‍💻 About Me
 
