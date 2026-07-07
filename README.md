@@ -9,49 +9,67 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 🎓 **3rd Year B.Tech CSE Student**  
 🏫 Saintgits College of Engineering, Kottayam
 
 📈 **CGPA:** **8.95**
 
-💡 Passionate about
+🌱 **Currently Learning**
+- Angular
+
+</td>
+
+<td width="50%" valign="top">
+
+💡 **Passionate About**
+
 - Data Structures & Algorithms
 - Software Development
 - Problem Solving
 - Database Systems
 
-🌱 Currently learning
-- Angular
+</td>
+</tr>
+</table>
 
 
 ---
 
 ## 🛠 Tech Stack
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,python,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,c,python,mysql"/>
+
+</td>
+
+<td align="center" width="33%">
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-### Concepts
+</td>
 
-```
-✔ Data Structures & Algorithms
-✔ DBMS
-✔ SQL
-✔ OOP
-✔ Problem Solving
-```
+<td align="center" width="33%">
 
----
+### Learning
 
+<img src="https://skillicons.dev/icons?i=angular"/>
+
+</td>
+
+</tr>
+</table>
 # 🚀 Featured Projects
 
 [Repositories](https://github.com/georgethomasnavy-byte?tab=repositories)
