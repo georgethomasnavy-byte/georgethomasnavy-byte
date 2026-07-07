@@ -54,40 +54,7 @@
 
 # 🚀 Featured Projects
 
-### 🎮 [Escape Room Simulator](https://github.com/georgethomasnavy-byte/Escape-Room-Simulator)
-
-> A JavaFX-based puzzle game featuring two challenging escape rooms.
-
-**Tech Stack**
-
-- Java
-- JavaFX
-
-
-
-### 🎬 [MovieFlix](https://github.com/georgethomasnavy-byte/MovieFlix)
-
-Desktop-based Movie Ticket Booking System.
-
-**Features**
-
-- Movie Booking
-- Oracle Database
-- Admin Panel
-- User Login
-
-**Tech Stack**
-
-- Python
-- Oracle SQL
-
-
-
-
-
-
-
-
+[Repositories](https://github.com/georgethomasnavy-byte?tab=repositories)
 
 # 🌐 Connect with Me
 
