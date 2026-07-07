@@ -72,9 +72,7 @@
 </table>
 
 ---
-# 🚀 Featured Projects
-
-[Repositories](https://github.com/georgethomasnavy-byte?tab=repositories)
+# [Featured Projects](https://github.com/georgethomasnavy-byte?tab=repositories)
 
 # 🌐 Connect with Me
 
