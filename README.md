@@ -70,6 +70,8 @@
 
 </tr>
 </table>
+
+---
 # 🚀 Featured Projects
 
 [Repositories](https://github.com/georgethomasnavy-byte?tab=repositories)
