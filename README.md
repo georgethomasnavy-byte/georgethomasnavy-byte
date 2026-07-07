@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm George Thomas</h1>
+<h1 align="center">Hi, I'm George Thomas</h1>
 <h3 align="center">💻 3rd Year Computer Science Engineering Student</h3>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 # 🚀 Featured Projects
 
-### 🎮 Escape Room Simulator
+### 🎮 [Escape Room Simulator](https://github.com/georgethomasnavy-byte/Escape-Room-Simulator)
 
 > A JavaFX-based puzzle game featuring two challenging escape rooms.
 
@@ -69,13 +69,9 @@
 - Java
 - JavaFX
 
-🔗 Repository
 
-https://github.com/georgethomasnavy-byte/Escape-Room-Simulator
 
----
-
-### 🎬 MovieFlix
+### 🎬 [MovieFlix](https://github.com/georgethomasnavy-byte/MovieFlix)
 
 Desktop-based Movie Ticket Booking System.
 
@@ -91,47 +87,13 @@ Desktop-based Movie Ticket Booking System.
 - Python
 - Oracle SQL
 
-🔗 Repository
 
-https://github.com/georgethomasnavy-byte/MovieFlix
 
----
 
-# 📊 GitHub Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=georgethomasnavy-byte&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgethomasnavy-byte&layout=compact&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=georgethomasnavy-byte&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=georgethomasnavy-byte&theme=algolia&margin-w=10&margin-h=10&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgethomasnavy-byte&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🌐 Connect with Me
 
@@ -153,15 +115,6 @@ https://github.com/georgethomasnavy-byte/MovieFlix
 
 ---
 
-<details>
-<summary>⚡ Fun Fact</summary>
 
-I enjoy building projects that combine problem-solving with user-friendly interfaces. Every project teaches me something new.
 
-</details>
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
